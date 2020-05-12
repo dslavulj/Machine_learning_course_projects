@@ -1,4 +1,4 @@
-# Machine_learning_course_projects
+# Machine learning course projects
 
 Projects for course Machine Learning with Python at Stone River eLearning.
 <br>
